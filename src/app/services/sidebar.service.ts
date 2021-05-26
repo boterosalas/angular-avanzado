@@ -13,6 +13,7 @@ export class SidebarService {
         { title: 'Principal', path: '/' },
         { title: 'Progress', path: '/dashboard/progress' },
         { title: 'Grafica 1', path: '/dashboard/chart' },
+        { title: 'RxJs', path: '/dashboard/rxjs' },
       ]
     }
   ];
